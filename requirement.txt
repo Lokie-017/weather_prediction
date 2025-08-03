@@ -6,3 +6,4 @@ scikit-learn
 keras
 streamlit
 pickle5
+joblib
